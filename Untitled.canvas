@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b50c2e0caf053ef1","x":-337,"y":122,"width":250,"height":60,"color":"3","type":"text","text":"사진"},
+		{"id":"08509f26a628f084","type":"text","text":"여행기","x":-87,"y":0,"width":174,"height":50}
+	],
+	"edges":[
+		{"id":"854c7993c55cf7de","fromNode":"08509f26a628f084","fromSide":"bottom","toNode":"b50c2e0caf053ef1","toSide":"top"}
+	]
+}

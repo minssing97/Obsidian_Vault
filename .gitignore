@@ -1,0 +1,7 @@
+# 옵시디언 시스템 파일 및 캐시 제외
+.obsidian/
+.smtcmp_json_db/
+
+# API 키가 들어있는 특정 파일들 제외
+10_Projects/110. hwpx/claude code key.md
+10_Projects/108. (시스템) OpenClaw 셋업/에이피아이.md
